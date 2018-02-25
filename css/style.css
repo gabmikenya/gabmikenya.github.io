@@ -1,0 +1,54 @@
+/*magenta, lime, fuschia, green, maroon*/
+
+
+
+
+#nav {
+text-align:center;
+}
+#nav li {
+display:inline;
+}
+#nav a {
+text-decoration:none; 
+padding:0 30px; /* variable width */
+}
+	
+	
+
+
+body {
+		background-color: DarkGray;
+	   	}
+
+h1{
+		text-align: center;
+		color: black;
+}
+
+
+h2{
+		text-align: center;
+		color: black;
+}
+
+
+h3{
+	
+	text-align: center;
+	color: black;
+}
+
+h4{
+
+	text-align: center;
+	color: black;
+}
+footer{
+	text-align: center;
+		color: black;
+		font-size: 200%;
+		font-weight: bold 
+		
+}
+}
