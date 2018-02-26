@@ -1,6 +1,19 @@
 /*magenta, lime, fuschia, green, maroon*/
 
 
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+  text-align: center;
+}
 
 
 #nav {
@@ -21,15 +34,21 @@ body {
 		background-color: DarkGray;
 	   	}
 
+		
+/*		
 h1{
 		text-align: center;
 		color: black;
+		margin-bottom: 0px;
+		 
 }
 
 
 h2{
 		text-align: center;
 		color: black;
+		
+		  margin-top: 0px;
 }
 
 
@@ -37,13 +56,19 @@ h3{
 	
 	text-align: center;
 	color: black;
+	margin-bottom: 0px;
+		  margin-top: 0px; 
 }
 
 h4{
 
 	text-align: center;
 	color: black;
+	margin-bottom: 0px;
+		  margin-top: 0px;
 }
+*/
+
 footer{
 	text-align: center;
 		color: black;
