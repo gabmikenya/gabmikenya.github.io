@@ -1,6 +1,21 @@
 /*magenta, lime, fuschia, green, maroon*/
 
 
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+ 
+}
+
+.flex-container > div {
+   height: 300px;
+  flex-basis: 300px;
+  margin: 10px;
+  text-align: center;
+   font-size: 30px;
+}
+
 
 
 
